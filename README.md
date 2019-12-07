@@ -1,24 +1,25 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Application name（アプリ名）
+frutweet
 
-Things you may want to cover:
+## Overview（概要）
+This rails application implements responsive navigation bar
+（このrailsアプリケーションはレスポンシブなナビバーを実装している）
 
-* Ruby version
+## Demo（GIF）
+[![Image from Gyazo](https://i.gyazo.com/18359c7214298e7feb85aa3e5b26618c.gif)](https://gyazo.com/18359c7214298e7feb85aa3e5b26618c)
 
-* System dependencies
+## Environments（環境）
+- ruby：2.5.1
+- rails：2.5.3
+- DB：mysql(Sequel Pro)
+- ブラウザ：Google
+- OS：Mac（10.14.6）
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Database（DB内容）
+### fruits（果物テーブル）
+|Column|Type|Options|Note|
+|------|----|-------|----|
+|name|string|-------|果物名|
+|image|string|-------|画像|
