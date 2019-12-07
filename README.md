@@ -8,6 +8,7 @@ This rails application implements responsive navigation bar
 （このrailsアプリケーションはレスポンシブなナビバーを実装している）
 
 ## Demo（GIF）
+
 [![Image from Gyazo](https://i.gyazo.com/18359c7214298e7feb85aa3e5b26618c.gif)](https://gyazo.com/18359c7214298e7feb85aa3e5b26618c)
 
 ## Environments（環境）
